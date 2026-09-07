@@ -45,26 +45,6 @@
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/rnmrqz-pmc/rnmrqz-pmc/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rnmrqz-pmc&show_icons=true&theme=dark&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rnmrqz-pmc&theme=dark&hide_border=true" width="48%" />
-
-</div>
 
 ---
 
